@@ -48,12 +48,15 @@ WinForms, WPF, MVVM, Electron + Blazor (Hybrid),
 ### Databases
 PostgreSQL, MSSQL
 
-## DevOps
+### Caching
+Redis
+
+### DevOps
 Docker, Docker compose
 (Windows server 2019, Linux)
 
 ### Other
-LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML
+LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch
 
 ### Databases
 
