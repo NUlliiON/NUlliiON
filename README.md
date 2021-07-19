@@ -56,7 +56,7 @@ Docker, Docker compose
 (Windows server 2019, Linux)
 
 ### Other
-LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch
+SOLID, LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch
 
 ### Databases
 
