@@ -58,6 +58,4 @@ Docker, Docker compose
 ### Other
 SOLID, LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch
 
-### Databases
-
 ###### Thanks [Icons8](https://icons8.com) for icons
