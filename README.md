@@ -58,4 +58,7 @@ Docker, Docker compose
 ### Other
 SOLID, LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch
 
+### Tools, IDE, etc.
+Visual Studio 2015-2019, JetBrains Rider, Visual Studio Code, Figma, FigJam
+
 ###### Thanks [Icons8](https://icons8.com) for icons
