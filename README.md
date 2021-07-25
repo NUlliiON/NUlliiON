@@ -37,7 +37,7 @@ C#, JavaScript, TypeScript, Angular 7+, Lua
 EntityFrameworkCore, xUnit, [Abp](https://github.com/abpframework/abp), [Shouldly](https://github.com/shouldly/shouldly)
 
 ### Web
-HTML, CSS, WebPack, esbuild ASP.NET Core MVC/API, IdentityServer4, OAuth, SignalR
+HTML, CSS, SCSS, WebPack, esbuild ASP.NET Core MVC/API, Blazor WASM/SSR, IdentityServer4, OAuth, SignalR
 
 ### Network,
 TCP/UDP, WebSockets, RPC
