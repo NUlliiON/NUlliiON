@@ -56,7 +56,7 @@ Docker, Docker compose
 (Windows server 2019, Linux)
 
 ### Other
-SOLID, LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch, Playwright
+SOLID, LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch, Playwright,
 Strong experience in automating Windows applications
 
 ### Tools, IDE, etc.
