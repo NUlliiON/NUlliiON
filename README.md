@@ -39,7 +39,7 @@ EntityFrameworkCore, xUnit, [Abp](https://github.com/abpframework/abp), [Shouldl
 ### Web
 HTML, CSS, SCSS, WebPack, esbuild ASP.NET Core MVC/API, Blazor WASM/SSR, IdentityServer4, OAuth, SignalR
 
-### Network,
+### Network
 TCP/UDP, WebSockets, RPC
 
 ### Desktop
