@@ -57,7 +57,7 @@ Docker, Docker compose
 
 ### Other
 SOLID, LINQ, Dependency Injection, IoC, Async/await, Threads, TPL, JSON, XML, Elasticsearch, Playwright,
-Strong experience in automating Windows applications
+Strong experience in automating Windows applications, Robotic Process Automation
 
 ### Tools, IDE, etc.
 Visual Studio 2015-2019, JetBrains Rider, Visual Studio Code, Figma, FigJam
