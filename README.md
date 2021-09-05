@@ -34,7 +34,7 @@ C#, JavaScript, TypeScript, Angular 7+, Lua
 .NET Framework 4+, .NET Core 2-3, .NET 5+
 
 ### .NET Frameworks
-EntityFrameworkCore, xUnit, [Abp](https://github.com/abpframework/abp), [Shouldly](https://github.com/shouldly/shouldly)
+EntityFrameworkCore, xUnit, [Abp](https://github.com/abpframework/abp)
 
 ### Web
 HTML, CSS, SCSS, WebPack, esbuild ASP.NET Core MVC/API, Blazor WASM/SSR, IdentityServer4, OAuth, SignalR
