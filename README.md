@@ -24,8 +24,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning **everything**
-
 ### Languages
 C#, JavaScript, TypeScript, Angular 7+, Lua
 
