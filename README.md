@@ -1,8 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://vk.com/">
-	<img align="left" src="https://img.icons8.com/fluent/48/000000/vk-com.png"/>
-</a>
 <a href="https://telegram.com/">
 	<img align="left" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
